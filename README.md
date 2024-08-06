@@ -47,6 +47,11 @@ cd IEEEVITBHopal_BLH19_NeuralNexus
 npm install
 
 ```
+```bash
+# To Run
+npm run dev
+
+```
 
 ## 🚀 Usage Instructions
 <p align="justify">

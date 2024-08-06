@@ -46,7 +46,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/project-title.git
+https://github.com/codex-mohan/IEEEVITBHopal_BLH19_NeuralNexus.git
 
 # Navigate to the project directory
 cd project-title

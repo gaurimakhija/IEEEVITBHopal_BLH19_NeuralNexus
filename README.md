@@ -8,11 +8,7 @@
 
 ---
 
-## 💼 Team Name
-
-<p align="center">
-  <strong><h2>Neural Nexus</h2></strong>
-</p>
+## 💼 Team Name: Neural Nexus
 
 ## 👥 Team Members
 

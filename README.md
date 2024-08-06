@@ -11,7 +11,7 @@
 ## 💼 Team Name
 
 <p align="center">
-  <strong><em>Neural Nexus</em></strong>
+  <strong><h2>Neural Nexus</h2></strong>
 </p>
 
 ## 👥 Team Members

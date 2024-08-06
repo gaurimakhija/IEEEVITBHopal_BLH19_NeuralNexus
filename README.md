@@ -1,4 +1,4 @@
-# <h1 align="center">🚀 Project Title 🚀</h1>
+# <h1 align="center">🚀 Project Title: Educational Technology 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Status-green">
@@ -11,16 +11,16 @@
 ## 💼 Team Name
 
 <p align="center">
-  <strong><em>Your Team Name Here</em></strong>
+  <strong><em>Neural Nexus</em></strong>
 </p>
 
 ## 👥 Team Members
 
 <ul>
-  <li>Member 1</li>
-  <li>Member 2</li>
-  <li>Member 3</li>
-  <li>Member 4</li>
+  <li>Mohana Krishna S (Team Leader)</li>
+  <li>Gauri Makhija</li>
+  <li>Eshika Ranjan Singh</li>
+  <li>Parth Chilwerwar</li>
 </ul>
 
 ## 📝 Project Description

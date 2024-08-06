@@ -21,10 +21,10 @@
 ## 💻 Technologies Used
 
 <ul>
-  <li>Technology 1</li>
-  <li>Technology 2</li>
-  <li>Technology 3</li>
-  <li>Technology 4</li>
+  <li>Reactjs</li>
+  <li>Node js</li>
+  <li>Tailwind css</li>
+  <li>Express js</li>
 </ul>
 
 ## ⚙️ Setup Instructions

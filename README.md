@@ -1,4 +1,4 @@
-# <h1 align="center">🚀 Project Title: Educational Technology 🚀</h1>
+# <h1 align="center"> Project Title: Educational Technology 📖</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Status-green">
@@ -43,10 +43,13 @@
 ```bash
 # Clone the repository
 https://github.com/codex-mohan/IEEEVITBHopal_BLH19_NeuralNexus.git
-
+```
+```bash
 # Navigate to the project directory
-cd project-title
+cd IEEEVITBHopal_BLH19_NeuralNexus
 
+```
+```bash
 # Install dependencies
 npm install
 

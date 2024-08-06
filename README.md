@@ -49,3 +49,28 @@ cd project-title
 
 # Install dependencies
 npm install
+
+```
+
+## 🚀 Usage Instructions
+<p align="justify">
+  Steps to use the project after setting it up:
+</p>
+
+## 🎨 Theme Fit
+<p align="justify">
+  Explain how the project aligns with the theme of the hackathon or event.
+</p>
+
+## 🌟 Future Enhancements
+<p align="justify">
+  List any planned improvements or features you would like to add in the future:
+</p>
+<ul>
+  <li>Enhancement 1</li>
+  <li>Enhancement 2</li>
+  <li>Enhancement 3</li>
+</ul>
+<p align="center">
+  Made with ❤️ by <strong>Neural Nexus</strong>
+</p>

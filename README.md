@@ -93,6 +93,11 @@ solving directly from physical notebooks and printed materials.
 
 <h2>Team Presentation</h2>
 
+```bash
+#PPT Link :
+https://docs.google.com/presentation/d/1ZXzor2KNrqZ8Ny1qmx0LuO75yJzyl3uS/edit?usp=sharing&ouid=111607889212039347188&rtpof=true&sd=true
+```
+
 
 
 

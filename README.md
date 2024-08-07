@@ -28,8 +28,8 @@
   
   <h2>💻 Technologies Used</h2>
   <ul>
-  <li>Technology 1</li>
-  <li>Technology 2</li>
+  <li>ReactJS</li>
+  <li>NodeJS</li>
   <li>Technology 3</li>
   <li>Technology 4</li>
   </ul>

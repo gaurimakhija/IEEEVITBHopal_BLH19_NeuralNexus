@@ -22,7 +22,7 @@
   </p>
 
   <h2>Problem Statement :</h2>
-  <p>Today's eductional system is not well integrated with AI tools like LLMs and advanced OCR Systems to Aid students and teachers alike in their studies.</p>
+  <p>Today's eductional system is not well integrated with AI tools like LLMs and advanced OCR Systems to Aid students and teachers alike in their Research studies.</p>
 
   <h2>Solutions :</h2>
   <p>We create a web app with a chat interface that can bridge this gap by using LLMs with vector databases to fetch upto date information from the web

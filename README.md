@@ -32,7 +32,7 @@
   <li>NodeJS</li>
   <li>TypeScript</li>
   <li>HTML</li>
-  <li>Tailwind CSS</li>
+  <li>Tailwind CSS </li>
   </ul>
 
   <h2>🔧 Setup Instructions</h2>

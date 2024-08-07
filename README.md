@@ -91,7 +91,7 @@ By addressing the integration of AI in education, our project not only fits the 
 solving directly from physical notebooks and printed materials.
 
 2. **Multilingual Support**:
-   - Expand the language capabilities of the LLMs to support multiple languages, enabling students and teachers from diverse linguistic backgrounds to benefit from the app's features.
+   - Expand the language capabilities of the LLMs to support multiple languages even local languages, enabling students and teachers from diverse linguistic backgrounds to benefit from the app's features.
 
 3. **Adaptive Learning Algorithms**:
    - Implement adaptive learning algorithms that tailor educational content and suggestions based on individual student performance and learning pace, providing a more personalized learning experience.

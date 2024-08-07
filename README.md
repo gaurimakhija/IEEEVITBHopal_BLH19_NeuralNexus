@@ -1,7 +1,7 @@
 
 <!-- Centered logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codex-mohan/IEEEVITBHopal_BLH19_NeuralNexus/main/public/icon-512x512.png" alt="Smart Learn" width="200"/>
+  <img src="https://raw.githubusercontent.com/codex-mohan/IEEEVITBHopal_BLH19_NeuralNexus/main/public/readme/main-logo.jpeg" alt="Smart Learn" width="30%" height="30%"/>
 </p>
 
 <!-- Centered H1 tag -->

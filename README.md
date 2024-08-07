@@ -30,8 +30,9 @@
   <ul>
   <li>ReactJS</li>
   <li>NodeJS</li>
-  <li>Technology 3</li>
-  <li>Technology 4</li>
+  <li>TypeScript</li>
+  <li>HTML</li>
+  <li>Tailwind CSS</li>
   </ul>
 
   <h2>🔧 Setup Instructions</h2>

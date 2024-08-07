@@ -84,10 +84,10 @@ Our project directly addresses the theme of educational technology by leveraging
 By addressing the integration of AI in education, our project not only fits the hackathon's theme but also aims to revolutionize the way educational content is accessed, processed, and utilized.
 </p>
 
-<h2>🔮 Future Enhancements</h2>
-  <p>
-1. Recognition of Handwritten Problems and Text in Images:
-   - Enhance the OCR capabilities to recognize and interpret complex handwritten problems and text from images more accurately. This would allow for more seamless integration of handwritten notes and problem-  
+<h2>🔮 Future Enhancements</h2><p>
+  
+1. **Recognition of Handwritten Problems**:
+    - Enhance the OCR capabilities to recognize and interpret complex handwritten problems and text from images more accurately. This would allow for more seamless integration of handwritten notes and problem-  
 solving directly from physical notebooks and printed materials.
 
 2. **Multilingual Support**:

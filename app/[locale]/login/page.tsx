@@ -189,7 +189,7 @@ export default async function Login({
           placeholder="••••••••"
         />
 
-        <SubmitButton className="mb-2 rounded-md bg-blue-700 px-4 py-2 text-white">
+        <SubmitButton className="mb-2 rounded-md bg-green-500 px-4 py-2 text-white">
           Login
         </SubmitButton>
 

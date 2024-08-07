@@ -1,23 +1,19 @@
 import { FC } from "react"
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { IconProp } from "@fortawesome/fontawesome-svg-core"
+import { RiBookOpenFill } from "@remixicon/react"
+
 type Theme = "dark" | "light"
 
 interface IconProps {
-  icon: IconProp
   theme: Theme
   scale?: number
 }
 
-const Icon: FC<IconProps> = ({ icon, theme, scale = 1 }) => {
+export const SmartLearnSVG: FC<IconProps> = ({ theme, scale = 1 }) => {
   const color = theme === "dark" ? "#fff" : "#000"
 
   return (
-    <FontAwesomeIcon
-      icon={icon}
-      style={{ color, fontSize: `${198 * scale}px` }}
-    />
+    <>
+      <RiBookOpenFill size={149 * scale} color={color} />
+    </>
   )
 }
-
-export default Icon

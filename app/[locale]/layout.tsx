@@ -14,7 +14,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 const APP_NAME = "SmartLearn"
 const APP_DEFAULT_TITLE = "SmartLearn"
-const APP_TITLE_TEMPLATE = "%s - Chatbot UI"
+const APP_TITLE_TEMPLATE = "%s - Smart Learn"
 const APP_DESCRIPTION = "SmartLearn - Your personalized Learning Assistant"
 
 interface RootLayoutProps {

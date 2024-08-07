@@ -1,7 +1,11 @@
 
+<!-- Centered logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codex-mohan/IEEEVITBHopal_BLH19_NeuralNexus/main/public/icon-512x512.png" alt="Smart Learn" width="200"/>
+</p>
 
-<h1>LearnSmart 📚</h1>
-<h2>Teame Name : BLH19_NeuralNexus</h2>
+<!-- Centered H1 tag -->
+<h1 align="center">LearnSmart 📚</h1>
 
 <h2>👥 4 Team Members</h2>
 <ul>
@@ -45,7 +49,15 @@ cd IEEEVITBHopal_BLH19_NeuralNexus
 npm install
 ```
 ```bash
-#Step 4: To run the webapp on local host 
+#Step 4: Setup Supabase for mac os and Linux
+brew install supabase/tap/supabase
+# For Windows
+scoop bucket add supabase https://github.com/supabase/scoop-bucket.git
+scoop install supabase
+```
+
+```bash
+#Step 5: To run the webapp on local host 
 npm run chat
 ```
 
